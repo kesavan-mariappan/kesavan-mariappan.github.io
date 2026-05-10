@@ -390,7 +390,7 @@ const Portfolio = () => {
                 className="flex gap-4 flex-wrap pt-4"
               >
                 <motion.a
-                  href="http://bit.ly/48HY8oC"
+                  href="https://bit.ly/4tYC3Ld"
                   target="_blank"
                   rel="noopener noreferrer"
                   onClick={() => setDoc(doc(db, 'analytics', 'sectionClicks'), { resumeViewed: increment(1) }, { merge: true })}
